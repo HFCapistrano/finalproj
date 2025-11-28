@@ -37,7 +37,7 @@ const server = http.createServer((req, res) => {
     <head>
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>Hannah Francine Portfolio</title>
+      <title>FP_Capistrano</title>
       <style>
         * {
           box-sizing: border-box;
@@ -174,7 +174,7 @@ const server = http.createServer((req, res) => {
     </head>
     <body>
       <header>
-        <div class="logo">Hannah Francine</div>
+        <div class="logo">HF</div>
         <nav>
           <a href="#">Home</a>
           <a href="#">About</a>
@@ -188,10 +188,9 @@ const server = http.createServer((req, res) => {
         <div class="content">
           <section class="info">
             <h1>
-              <span>Hannah Francine</span>
-              <span>P. Capistrano</span>
+              <span>Hannah Francine P. Capistrano</span>
             </h1>
-            <div class="class-section">Class Section: BSIT SM-4102</div>
+            <div class="class-section">BSIT SM-4102</div>
             <div class="role">Aspiring Web Dev & Designer</div>
 
             <div class="quote-box">
